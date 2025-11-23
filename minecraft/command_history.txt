@@ -1,0 +1,50 @@
+/function vptweaks:tick
+/reload
+/datapack list
+/function vptweaks:info
+/reload
+/datapack list
+/function vptweaks:info
+/reload
+/datapack list
+/reload
+/season set early_spring
+/season set early_autumn
+/season set early_spring
+/gamemode creative
+/gamemode survival
+/give Freddy__K name
+/give Freddy__K minecraft:name_tag 1
+/give Freddy__K anv
+/give Freddy__K minecraft:anvil 1
+/give Freddy__K minecraft:lead 1
+/tp Freddy__K Tullama01
+/data get entity @e[name="Bill",limit=1]
+/tp @e[name="Bill"] Freddy__K
+/data get entity @e[name="Bill",limit=1]
+/tp @e[name="Bill"] @p
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/give Freddy__K minecraft:honey_bottle 5
+/gamemode creative
+/gamemode survival
+/give Freddy__K minecraft:honeycomb 3
+/give Freddy__K minecraft:bee_spawn_egg
+/kill @e[type=mutantmonsters:creeper_minion]
+/data remove entity Tullama01 ShoulderEntityLeft
+/data remove entity Tullama01 ShoulderEntityRight
+/tp Freddy__K Tullama01
+/tp Tullama01 Freddy__K
+/gamemode creative
+/gamemode survival
+/kick Robot_D
+/give Freddy__K minecraft:debug_stick
+/gamemode creative
+/gamemode survival
+/give Freddy__K minecraft:pink_petals
+/give Freddy__K minecraft:pink_petals 10
+/waystones

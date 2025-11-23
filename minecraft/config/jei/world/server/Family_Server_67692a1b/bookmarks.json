@@ -1,0 +1,11 @@
+[
+  {"version":3},
+  {"ingredient":{"id":"farmersdelight:chicken_sandwich"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:fried_rice"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:roast_chicken_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:melon_juice"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:dog_food"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:beef_stew"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:organic_compost"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:silence_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

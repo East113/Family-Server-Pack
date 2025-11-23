@@ -1,0 +1,11 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:name_tag"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwholidays:gray_ornament"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:saddle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:leather_horse_armor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:iron_horse_armor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:golden_horse_armor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:diamond_horse_armor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stripped_acacia_log"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

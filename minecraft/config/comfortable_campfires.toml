@@ -1,0 +1,12 @@
+# Maximum distance from campfire
+# default: 3
+distance = 3
+# Maximum duration of effect
+# default: 5
+duration = 5
+# Amplifier of effect
+# default: 0
+amplifier = 0
+# Give Comfort effect instead of Regeneration.
+# default: true
+useComfort = true
