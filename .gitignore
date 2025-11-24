@@ -19,3 +19,13 @@ minecraft/patchouli_data/
 # Shader caches (optional)
 minecraft/shaderpacks/*
 !minecraft/shaderpacks/*.zip
+
+# User-specific files
+minecraft/options.txt
+minecraft/servers.dat
+minecraft/servers.dat_old
+minecraft/usercache.json
+minecraft/user-prefs.json
+minecraft/realms_persistence.json
+minecraft/command_history.txt
+
