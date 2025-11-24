@@ -1,0 +1,16 @@
+filename = 'OverflowingBars-v21.10.1+mc1.21.10-Fabric.jar'
+name = 'Overflowing Bars'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2ea1993b9b4119e522bf80cfe35b4b5ae4f4849b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7085829
+project-id = 852662

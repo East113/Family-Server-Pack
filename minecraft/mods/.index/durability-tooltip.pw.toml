@@ -1,0 +1,16 @@
+filename = 'durabilitytooltip-1.1.6-fabric-mc1.21.jar'
+name = 'Durability Tooltip'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.10', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c7a5028c90993934b0604c69fe63d33c951e8640'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6833277
+project-id = 511040

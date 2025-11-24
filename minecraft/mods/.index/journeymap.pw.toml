@@ -1,0 +1,16 @@
+filename = 'journeymap-fabric-1.21.10-6.0.0-beta.54.jar'
+name = 'JourneyMap'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '72d1340d11ee325083d1b9fcffd35a92e51cbb52'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7218718
+project-id = 32274

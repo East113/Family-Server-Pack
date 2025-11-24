@@ -1,0 +1,16 @@
+filename = 'NaturesCompass-1.21.10-2.2.9-fabric.jar'
+name = "Nature's Compass"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '12ee12fa9728cb9903cefd4b2e9f3f30c8f1d453'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7146522
+project-id = 252848

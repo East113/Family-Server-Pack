@@ -1,0 +1,16 @@
+filename = 'CutThrough-v21.10.0+mc1.21.10-Fabric.jar'
+name = 'Cut Through'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ac1979cf945b57db1706d9fe3aacc7ec0fe4db6c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7084278
+project-id = 969423

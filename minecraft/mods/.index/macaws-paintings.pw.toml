@@ -1,0 +1,16 @@
+filename = 'mcw-paintings-1.0.5-mc1.21.10fabric.jar'
+name = "Macaw's Paintings"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '276ff8b0ea0a6c900e2176b0636eb4e7fa629b49'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7135366
+project-id = 438116

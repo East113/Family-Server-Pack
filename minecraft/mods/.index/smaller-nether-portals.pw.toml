@@ -1,0 +1,16 @@
+filename = 'smallernetherportals-1.21.10-4.0.jar'
+name = 'Smaller Nether Portals'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f1e0b59c58d64e02e8f0828184bf92366a481cee'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7079187
+project-id = 345614

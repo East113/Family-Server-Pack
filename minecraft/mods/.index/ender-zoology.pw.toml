@@ -1,0 +1,16 @@
+filename = 'EnderZoology-v21.10.0+mc1.21.10-Fabric.jar'
+name = 'Ender Zoology'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eca274ad37813d01e00899a5f8d0c0903169e955'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7084604
+project-id = 857968

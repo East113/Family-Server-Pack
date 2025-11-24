@@ -1,0 +1,16 @@
+filename = 'voicechat-fabric-1.21.10-2.6.6.jar'
+name = 'Simple Voice Chat'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f30622ce48b9c288d0af818b179a140c4ef8ae82'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7117189
+project-id = 416089

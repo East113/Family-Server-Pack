@@ -1,0 +1,16 @@
+filename = 'PuzzlesLib-v21.10.7+mc1.21.10-Fabric.jar'
+name = 'Puzzles Lib'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7dcd2fb4254461d6a4fdad09b42c4a855c6dee46'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7226750
+project-id = 495476

@@ -1,0 +1,16 @@
+filename = 'toms_storage_fabric-1.21.10-2.6.1.jar'
+name = "Tom's Simple Storage Mod (Fabric)"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '84c8d5d8be83fce0813397f851df21a3024c64ca'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7200029
+project-id = 396826

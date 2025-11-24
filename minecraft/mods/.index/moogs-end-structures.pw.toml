@@ -1,0 +1,16 @@
+filename = 'mes-1.4.7-1.21.9-1.21.10-fabric.jar'
+name = "MES - Moog's End Structures"
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd616d1793e1ede77bb3afa88e7095dad458b1230'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7090217
+project-id = 892382

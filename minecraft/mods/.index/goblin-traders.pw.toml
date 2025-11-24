@@ -1,0 +1,16 @@
+filename = 'goblintraders-fabric-1.21.10-1.11.3.jar'
+name = 'Goblin Traders'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '29dbd4fbd689ae186628f233c3f7a6b5174ece53'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7090443
+project-id = 363703

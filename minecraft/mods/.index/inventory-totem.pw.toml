@@ -1,0 +1,16 @@
+filename = 'inventorytotem-1.21.10-3.4.jar'
+name = 'Inventory Totem'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dcd85a1e297bd7d31551d69a39fd9dd0d80e783e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7079465
+project-id = 349071

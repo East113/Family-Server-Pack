@@ -1,0 +1,16 @@
+filename = 'waystones-fabric-1.21.10-21.10.3.jar'
+name = 'Waystones'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '350e6d6e824de08bf1a4c90372139d4b4d471b15'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7161259
+project-id = 245755

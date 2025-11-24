@@ -1,0 +1,16 @@
+filename = 'CraftableNameTag-1.21.10-0.1.jar'
+name = 'Craftable Name Tag'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '055d5dd45f8aebaf1103d233e29d752b67a0a1fd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7113445
+project-id = 920866

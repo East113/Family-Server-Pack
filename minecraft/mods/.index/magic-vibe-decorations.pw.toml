@@ -1,0 +1,16 @@
+filename = 'magic-vibe-decorations-2.3.2-fabric-1.21.9-1.21.10.jar'
+name = 'Magic Vibe Decorations (Crystals, Halloween)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.9', '1.21.9-snapshot' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd0b4c54a81cafe68607a1da0440a3e6f2b506275'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7109186
+project-id = 900435

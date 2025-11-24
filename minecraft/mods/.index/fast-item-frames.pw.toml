@@ -1,0 +1,16 @@
+filename = 'FastItemFrames-v21.10.0+mc1.21.10-Fabric.jar'
+name = 'Fast Item Frames'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fbca4cb8f7c60f4e8cc13670138153fbb7389dc4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7084147
+project-id = 1210171

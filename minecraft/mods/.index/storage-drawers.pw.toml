@@ -1,0 +1,16 @@
+filename = 'StorageDrawers-fabric-1.21.10-19.1.1.jar'
+name = 'Storage Drawers'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ab96ea1cc26739c499817960943001453fdc20ac'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7107980
+project-id = 223852

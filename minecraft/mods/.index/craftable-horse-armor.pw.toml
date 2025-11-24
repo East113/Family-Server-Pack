@@ -1,0 +1,16 @@
+filename = 'CraftableHorseArmor-1.21.10-0.1.jar'
+name = 'Craftable Horse Armor'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9468225e7dd084c217a16fc8252045052b125cf0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7113443
+project-id = 948210

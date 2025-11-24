@@ -1,0 +1,16 @@
+filename = 'armored-elytra-1.11.0.jar'
+name = 'Armored Elytra - Fabric'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c46df5124ad240728250213f70ad5351b1e0a538'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7087675
+project-id = 1056156

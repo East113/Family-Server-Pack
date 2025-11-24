@@ -1,0 +1,16 @@
+filename = 'creeperfireworks-1.21.10-1.0.2.1-FABRIC.jar'
+name = 'Creeper Fireworks'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dcdf33efb8f47aef5365b68d69312c815de684fe'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7179444
+project-id = 1071230

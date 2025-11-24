@@ -1,0 +1,16 @@
+filename = 'SwordBlockingMechanics-v21.10.0+mc1.21.10-Fabric.jar'
+name = 'Sword Blocking Mechanics'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b30cd909431feff3c2f7ca9fcd0bd7705c0b336d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7084234
+project-id = 969424

@@ -1,0 +1,16 @@
+filename = 'healthindicatortxf-1.21.10-1.3.9-fabric.jar'
+name = 'Health Indicator TXF'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.9' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'ee4052d4c28379f18edb784975d5bfe0db373e48'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7089182
+project-id = 883384

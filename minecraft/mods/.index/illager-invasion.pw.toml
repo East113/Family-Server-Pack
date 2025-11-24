@@ -1,0 +1,16 @@
+filename = 'IllagerInvasion-v21.10.0+mc1.21.10-Fabric.jar'
+name = 'Illager Invasion'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '547d10006fd1a738c93f549a6ed5ebddb9f6c00f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7086200
+project-id = 891324

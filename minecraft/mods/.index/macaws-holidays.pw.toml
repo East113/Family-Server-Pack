@@ -1,0 +1,16 @@
+filename = 'mcw-holidays-1.1.1-mc1.21.10fabric.jar'
+name = "Macaw's Holidays"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b17094accbd560d4a69ae0783bec79207128c5d3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7135360
+project-id = 930232

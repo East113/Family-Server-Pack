@@ -1,0 +1,16 @@
+filename = 'formations-1.0.4-fabric-mc1.21.6.jar'
+name = 'Formations (Structure Library)'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '76adb926336550812b62ac1f86f4deaa48539442'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6789363
+project-id = 915115

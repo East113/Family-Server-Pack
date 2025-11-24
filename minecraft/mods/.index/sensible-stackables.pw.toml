@@ -1,0 +1,16 @@
+filename = 'sensible_stackables-2.1.0+1.21.10.jar'
+name = 'Sensible Stackables'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '37d4dad3572afe574d7ee6e36796bcadbd7ec495'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7212368
+project-id = 1178081

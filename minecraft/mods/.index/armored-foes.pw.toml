@@ -1,0 +1,16 @@
+filename = 'ArmoredFoes-v21.10.2+mc1.21.10-Fabric.jar'
+name = 'Armored Foes'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '78a6e57a2366970d9a31f2c458ad7e5054357468'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7141837
+project-id = 1369926

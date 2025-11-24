@@ -1,0 +1,16 @@
+filename = 'EasyAnvils-v21.10.0+mc1.21.10-Fabric.jar'
+name = 'Easy Anvils'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7503dd8e592af640ce36ef49ce66931b780f5ca1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7084348
+project-id = 682567

@@ -1,0 +1,16 @@
+filename = 'VisualWorkbench-v21.10.0+mc1.21.10-Fabric.jar'
+name = 'Visual Workbench'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a65a19363badcb1c43377486264341823d72988a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7084352
+project-id = 500273
