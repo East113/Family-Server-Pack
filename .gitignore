@@ -1,21 +1,21 @@
 # --- Minecraft instance stuff we DON'T want in git ---
 
 # Worlds (server will have its own world)
-.minecraft/saves/
-.minecraft/backups/
+minecraft/saves/
+minecraft/backups/
 
 # Logs & crash reports
-.minecraft/logs/
-.minecraft/crash-reports/
+minecraft/logs/
+minecraft/crash-reports/
 
 # Screenshots
-.minecraft/screenshots/
+minecraft/screenshots/
 
 # Local config caches / maps (optional)
-.minecraft/journeymap/
-.minecraft/xaero*
-.minecraft/patchouli_data/
+minecraft/journeymap/
+minecraft/xaero*
+minecraft/patchouli_data/
 
 # Shader caches (optional)
-.minecraft/shaderpacks/*
-!.minecraft/shaderpacks/*.zip
+minecraft/shaderpacks/*
+!minecraft/shaderpacks/*.zip
