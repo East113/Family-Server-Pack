@@ -9,5 +9,6 @@
   {"ingredient":{"id":"farmersdelight:hamburger"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"farmersdelight:organic_compost"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:silence_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"storagedrawers:oak_half_drawers_2"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"storagedrawers:oak_half_drawers_2"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stone_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]
