@@ -99,6 +99,9 @@
     "waystones": {
       "waystone": true
     },
+    "underlay": {
+      "overlay": true
+    },
     "balm": {
       "jade": true
     }
