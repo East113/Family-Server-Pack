@@ -1,4 +1,4 @@
-filename = 'brickfurnace-fabric-1.21.10-4.9.1.0.jar'
+filename = 'brickfurnace-fabric-1.21.10-4.9.2.0.jar'
 name = 'Brick Furnace'
 side = 'both'
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.10' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '5ba3955cf853ee321d08880e13a00ca2a7ab7b7d'
+hash = '4a0cf2efb8f779e5e20494b3f26bd398d637db11'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7209767
+file-id = 7294190
 project-id = 363593

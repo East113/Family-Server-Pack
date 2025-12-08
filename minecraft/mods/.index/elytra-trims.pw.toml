@@ -1,4 +1,4 @@
-filename = 'elytratrims-fabric-4.5.2+1.21.10.jar'
+filename = 'elytratrims-fabric-4.5.6+1.21.10.jar'
 name = 'Elytra Trims'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.10', '1.21.9' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'f3ec69cac831ea09f2c1347a17522ae0f520c86a'
+hash = 'd6d7843c26c91feec840732b3d842dd4b0b0db10'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7249200
+file-id = 7279933
 project-id = 876199

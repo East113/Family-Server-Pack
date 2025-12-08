@@ -1,4 +1,4 @@
-filename = 'mcw-lights-1.1.4-mc1.21.10fabric.jar'
+filename = 'mcw-lights-1.1.5-mc1.21.10fabric.jar'
 name = "Macaw's Lights and Lamps"
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.10' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'a1b4d49d28c6cddb0d2488a5580788a6c0c0ae43'
+hash = 'a098209a042ff02e95e492ca6975e3b2ed75324f'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7135369
+file-id = 7304057
 project-id = 502372
