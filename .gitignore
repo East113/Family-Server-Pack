@@ -29,3 +29,9 @@ minecraft/user-prefs.json
 minecraft/realms_persistence.json
 minecraft/command_history.txt
 
+
+# Ignore Fabric generated cache
+minecraft/.fabric/
+
+# Ignore local Better Trims config
+minecraft/config/better-trims.json5
