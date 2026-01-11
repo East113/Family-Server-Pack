@@ -1,0 +1,16 @@
+filename = 'EnchantingInfuser-v21.11.1-mc1.21.11-Fabric.jar'
+name = 'Enchanting Infuser'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7beae1d56f01c91541cbe45bb84f5694472aa855'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7354841
+project-id = 551151
