@@ -1,5 +1,13 @@
 [
   {"version":1},
+  {"ingredient":{"id":"farmersdelight:dog_food"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:beef_stew"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:melon_juice"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:roast_chicken_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:fried_rice"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:chicken_sandwich"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:hamburger"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:silence_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:gunpowder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:breeze_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:honey_bottle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -91,13 +99,5 @@
   {"ingredient":{"id":"minecraft:cobbled_deepslate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:clay"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:terracotta"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:bolt_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:spire_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:flow_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:shaper_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:raiser_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:wayfinder_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:tide_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:silence_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:ward_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:bolt_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]
