@@ -1,0 +1,16 @@
+filename = 'lootintegrations_medievalbuildings-1.4.jar'
+name = 'Loot Integrations: Medieval Buildings & End & Nether'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.21', '1.21.1', '1.21.10', '1.21.11', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '473abdfa91e33f40e4fafd36bd8c26556495d70b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6776749
+project-id = 1149287

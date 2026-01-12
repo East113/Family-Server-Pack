@@ -1,0 +1,16 @@
+filename = 'medieval_buildings_nether_edition-1.21.9-1.0.1-fabric.jar'
+name = 'Medieval Buildings [Nether Edition]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.11', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4bb02197bcc1c855199bc5756b9bd3ea69db566c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7075323
+project-id = 1278431

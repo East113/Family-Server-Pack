@@ -1,0 +1,16 @@
+filename = 'lootintegrations-fabric-1.21.8-4.7.jar'
+name = 'Loot Integrations'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.11', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eb154cc5add2e8b8ca0d18deaaba64b88e1dfda7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6863911
+project-id = 580689
