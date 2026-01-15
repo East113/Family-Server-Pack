@@ -22,7 +22,6 @@ minecraft/shaderpacks/*
 
 # User-specific files
 minecraft/options.txt
-minecraft/servers.dat
 minecraft/servers.dat_old
 minecraft/usercache.json
 minecraft/user-prefs.json
